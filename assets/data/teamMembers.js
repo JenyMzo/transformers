@@ -61,14 +61,3 @@ module.exports = {
     website: "https://github.com/virgilchiriac"
   }
 };
-Collapse
-
-
-
-
-
-
-
-Message Virgil Chiriac
-
-
