@@ -12,3 +12,5 @@ dist
 
 #OS Files
 .DS_Store
+
+static
