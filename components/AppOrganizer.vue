@@ -11,7 +11,7 @@
       <div class="row">
         <div class="team-members">
           <div class="col-md-4 col-sm-6" v-for="organizer in organizers">
-            <div class="team-member text-center wow animated fadeInUp" data-wow-duration="1.5s">
+            <div class="team-member text-center wow animated fadeInUp" data-wow-duration="1.5s"  @mouseover="playSound(organizer.sound)">
               <div class="member-mock">
                   <img v-bind:src="organizer.avatar" alt="organizer.name">
               </div>
@@ -43,6 +43,14 @@
     data () {
       return {
         organizers
+      }
+    },
+    methods: {
+      playSound (sound) {
+        if(sound) {
+          var audio = new Audio(sound);
+          audio.play();
+        }
       }
     }
   }

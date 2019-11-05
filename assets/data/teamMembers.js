@@ -6,7 +6,8 @@ module.exports = {
       "Brazilian backend developer. Experience with ERP, ecommerce and tourism industry. Some devops skills with gcloud, aws, docker and k8s. Like sports, geek stuff, movies.",
     github: "leopcastro",
     avatar:
-      "https://pbs.twimg.com/profile_images/378800000185077282/bc6e5c3817233d28405f32ed01125e48_400x400.png"
+      "https://pbs.twimg.com/profile_images/378800000185077282/bc6e5c3817233d28405f32ed01125e48_400x400.png",
+    sound: "https://storage.googleapis.com/teamevent/audio/Leo.wav"
   },
   aurelie: {
     name: "Aurelie Ferron",
@@ -15,7 +16,8 @@ module.exports = {
       "Likes (chocolate) cakes, and slicing them vertically, not horizontally.",
     avatar:
       "https://transformers.cloud.tourstream.eu/photos/aurelie.jpg",
-    website: "https://www.aurelieferron.com"
+    website: "https://www.aurelieferron.com",
+    sound: "https://storage.googleapis.com/teamevent/audio/Aurelie.wav"
   },
   cem: {
     name: "Cem Usta",
@@ -25,7 +27,8 @@ module.exports = {
     github: "cemusta",
     avatar:
       "https://transformers.cloud.tourstream.eu/photos/cem.jpg",
-    website: "https://github.com/cemusta"
+    website: "https://github.com/cemusta",
+    sound: "https://storage.googleapis.com/teamevent/audio/Cem.wav"
   },
   jenymazo: {
     name: "Jeny Mazo",
@@ -36,7 +39,8 @@ module.exports = {
     github: "JenyMzo",
     avatar:
       "https://transformers.cloud.tourstream.eu/photos/jeny.jpg",
-    website: "https://twitter.com/JenyMzo"
+    website: "https://twitter.com/JenyMzo",
+    sound: "https://storage.googleapis.com/teamevent/audio/Jenny.wav"
   },
   ogun: {
     name: "Ogün Isik",
@@ -47,7 +51,8 @@ module.exports = {
     github: "ogun",
     avatar:
       "https://transformers.cloud.tourstream.eu/photos/ogun.jpg",
-    website: "https://github.com/ogunisik"
+    website: "https://github.com/ogunisik",
+    sound: "https://storage.googleapis.com/teamevent/audio/Ogun.wav"
   },
   virgil: {
     name: "Virgil Chiriac",
@@ -58,6 +63,7 @@ module.exports = {
     twitter: "",
     github: "virgilchiriac",
     avatar: "https://transformers.cloud.tourstream.eu/photos/virgil.jpg",
-    website: "https://github.com/virgilchiriac"
+    website: "https://github.com/virgilchiriac",
+    sound: "https://storage.googleapis.com/teamevent/audio/Virgil.wav"
   }
 };
