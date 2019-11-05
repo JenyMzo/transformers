@@ -6,7 +6,7 @@ module.exports = {
       "Brazilian backend developer. Experience with ERP, ecommerce and tourism industry. Some devops skills with gcloud, aws, docker and k8s. Like sports, geek stuff, movies.",
     github: "leopcastro",
     avatar:
-      "https://pbs.twimg.com/profile_images/378800000185077282/bc6e5c3817233d28405f32ed01125e48_400x400.png",
+      "https://transformers.cloud.tourstream.eu/photos/leonardo.png",
     sound: "https://storage.googleapis.com/teamevent/audio/Leo.wav"
   },
   aurelie: {
@@ -57,9 +57,7 @@ module.exports = {
   virgil: {
     name: "Virgil Chiriac",
     rol: "Fullstack Developer",
-    bio:
-        "I've always look up at the stars and ahead to the future. I love science & technology and am passionate believer in the bright future full of both.\n" +
-        "There's nothing like programming to get us there, and within programming, I find the web to be the most exciting.",
+    bio: "Rumanian Fullstack Developer. I've always look up at the stars and ahead to the future. I love science & technology and am passionate believer in the bright future full of both. There's nothing like programming to get us there, and within programming, I find the web to be the most exciting.",
     twitter: "",
     github: "virgilchiriac",
     avatar: "https://transformers.cloud.tourstream.eu/photos/virgil.jpg",
