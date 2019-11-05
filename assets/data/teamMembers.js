@@ -14,7 +14,7 @@ module.exports = {
     bio:
       "Likes (chocolate) cakes, and slicing them vertically, not horizontally.",
     avatar:
-      "https://pbs.twimg.com/profile_images/378800000185077282/bc6e5c3817233d28405f32ed01125e48_400x400.png",
+      "https://transformers.cloud.tourstream.eu/photos/aurelie.jpg",
     website: "https://www.aurelieferron.com"
   },
   cem: {
@@ -24,7 +24,7 @@ module.exports = {
       "Engineer, dreamer, geek and anarchist. Owns a collection of office boardgames. Likes fun and setting things on 🔥.",
     github: "cemusta",
     avatar:
-      "https://pbs.twimg.com/profile_images/378800000185077282/bc6e5c3817233d28405f32ed01125e48_400x400.png",
+      "https://transformers.cloud.tourstream.eu/photos/cem.jpg",
     website: "https://github.com/cemusta"
   },
   jenymazo: {
@@ -35,7 +35,7 @@ module.exports = {
     twitter: "JenyMzo",
     github: "JenyMzo",
     avatar:
-      "https://avatars3.githubusercontent.com/u/2567952?v=3&u=93af511467354af56abba97d969cccca6fdffbef&s=250",
+      "https://transformers.cloud.tourstream.eu/photos/jeny.jpg",
     website: "https://twitter.com/JenyMzo"
   },
   ogun: {
@@ -46,7 +46,29 @@ module.exports = {
     twitter: "ogunisik",
     github: "ogun",
     avatar:
-      "https://pbs.twimg.com/profile_images/378800000185077282/bc6e5c3817233d28405f32ed01125e48_400x400.png",
+      "https://transformers.cloud.tourstream.eu/photos/ogun.jpg",
     website: "https://github.com/ogunisik"
+  },
+  virgil: {
+    name: "Virgil Chiriac",
+    rol: "Fullstack Developer",
+    bio:
+        "I've always look up at the stars and ahead to the future. I love science & technology and am passionate believer in the bright future full of both.\n" +
+        "There's nothing like programming to get us there, and within programming, I find the web to be the most exciting.",
+    twitter: "",
+    github: "virgilchiriac",
+    avatar: "https://transformers.cloud.tourstream.eu/photos/virgil.jpg",
+    website: "https://github.com/virgilchiriac"
   }
 };
+Collapse
+
+
+
+
+
+
+
+Message Virgil Chiriac
+
+
