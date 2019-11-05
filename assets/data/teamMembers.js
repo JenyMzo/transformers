@@ -1,4 +1,32 @@
 module.exports = {
+  leo: {
+    name: "Leonardo Castro",
+    rol: "Backend Developer",
+    bio:
+      "Brazilian backend developer. Experience with ERP, ecommerce and tourism industry. Some devops skills with gcloud, aws, docker and k8s. Like sports, geek stuff, movies.",
+    github: "leopcastro",
+    avatar:
+      "https://pbs.twimg.com/profile_images/378800000185077282/bc6e5c3817233d28405f32ed01125e48_400x400.png"
+  },
+  aurelie: {
+    name: "Aurelie Ferron",
+    rol: "Agile Couch",
+    bio:
+      "Likes (chocolate) cakes, and slicing them vertically, not horizontally.",
+    avatar:
+      "https://pbs.twimg.com/profile_images/378800000185077282/bc6e5c3817233d28405f32ed01125e48_400x400.png",
+    website: "https://www.aurelieferron.com"
+  },
+  cem: {
+    name: "Cem Usta",
+    rol: "Developer",
+    bio:
+      "Engineer, dreamer, geek and anarchist. Owns a collection of office boardgames. Likes fun and setting things on 🔥.",
+    github: "cemusta",
+    avatar:
+      "https://pbs.twimg.com/profile_images/378800000185077282/bc6e5c3817233d28405f32ed01125e48_400x400.png",
+    website: "https://github.com/cemusta"
+  },
   jenymazo: {
     name: "Jeny Mazo",
     rol: "Fullstack Developer",
