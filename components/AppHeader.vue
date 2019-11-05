@@ -9,7 +9,8 @@
               <h1>
                 <b>Transformers</b>
               </h1>
-              <p>We are a fullstack diverse team. Our 3 CORE strengths: we are tech savy, adaptive & divers, and communicate openly. ✨</p>
+              <p>We are a fullstack dev team working for FTI Group in the core of Berlin. </p>
+              <p>CORE strengths: we are tech savvy, adaptive & diverse, and communicate openly. ✨</p>
               <p class='disclaimer'></p>
             </div>
             <div class='col-lg-5 col-md-6'>

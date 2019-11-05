@@ -57,11 +57,21 @@ module.exports = {
   virgil: {
     name: "Virgil Chiriac",
     rol: "Fullstack Developer",
-    bio: "Rumanian Fullstack Developer. There's nothing like programming to get us there, and within programming, I find the web to be the most exciting.",
+    bio: "Rumanian Fullstack Developer. Programming is gonna get us to the stars.",
     twitter: "",
     github: "virgilchiriac",
     avatar: "https://transformers.cloud.tourstream.eu/photos/virgil.jpg",
     website: "https://github.com/virgilchiriac",
     sound: "https://storage.googleapis.com/teamevent/audio/Virgil.wav"
+  },
+  anastas: {
+    name: "Anastas Tanushev",
+    rol: "Product Owner",
+    bio: "German with Bulgarian roots, can do multi-tasking, loves good challenges and likes to wear suites.",
+    twitter: "",
+    github: "",
+    avatar: "https://transformers.cloud.tourstream.eu/photos/anastas.jpg",
+    website: "",
+    sound: "https://storage.googleapis.com/teamevent/audio/Anastas.wav"
   }
 };
