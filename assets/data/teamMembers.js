@@ -73,5 +73,15 @@ module.exports = {
     avatar: "https://transformers.cloud.tourstream.eu/photos/anastas.jpg",
     website: "",
     sound: "https://storage.googleapis.com/teamevent/audio/Anastas.wav"
+  },
+  anastassia: {
+    name: "Anastasiia Buckalova",
+    rol: "QA",
+    bio: "Avid traveler, gets anywhere bug free.",
+    twitter: "",
+    github: "",
+    avatar: "https://transformers.cloud.tourstream.eu/photos/anastasiia.jpg",
+    website: "",
+    sound: "https://storage.googleapis.com/teamevent/audio/Anastasiia.wav"
   }
 };
